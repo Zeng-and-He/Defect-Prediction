@@ -11,6 +11,8 @@ number={},
 pages={69-79}, 
 doi={10.1109/ISSRE52982.2021.00020}}
 
+source code: https://github.com/Emliy-zcy/GCN2defect
+
 ### Generating Class Dependency Network
 
 ---
